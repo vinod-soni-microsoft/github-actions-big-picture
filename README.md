@@ -1,4 +1,4 @@
-## Project repository for the Pluralsight course, GitHub Actions: The Big Picture
+## Project repository for the GitHub Actions - The Big Picture
 
 This repository contains the core web application files and configuration you'll need to follow along in the Pluralsight course, GitHub Actions: The Big Picture.
 
